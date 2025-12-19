@@ -24,10 +24,10 @@ Une **application mobile** est prévue dans la roadmap produit.
 > Captures issues de l’interface web  
 > (données sensibles et comptes réels non exposés)
 
-![Dashboard administrateur](docs/screenshots/admin-dashboard.png)
-![Gestion des cours](docs/screenshots/courses-management.png)
-![Espace membre](docs/screenshots/member-space.png)
-![Facturation & paiements](docs/screenshots/billing-payments.png)
+![Dashboard administrateur](docs/screenshots/admin-dashboard.png.png)
+![Gestion des cours](docs/screenshots/courses-management.png.png)
+![Espace membre](docs/screenshots/member-space.png.png)
+![Facturation & paiements](docs/screenshots/billing-payments.png.png)
 
 ---
 
