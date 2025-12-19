@@ -106,7 +106,6 @@ Chaque rôle dispose :
 ## 📄 Documentation
 
 - [Architecture & conception SaaS](docs/architecture/overview.md)
-- [Stratégie SEO & acquisition](docs/seo/seo-strategy.md)
 
 ---
 
